@@ -45,7 +45,7 @@ public class CloudProject {
 		
 		// Creating the hosts for processing the data from datacenter
 		int Id = 0;
-		int RAM = 44568; // 44.5 GB
+		int RAM = 45568; // 44.5 GB
 		long storage = 10000000; // 10000 GB
 		int bandwidth = 100000; // 100Gbps
 		
